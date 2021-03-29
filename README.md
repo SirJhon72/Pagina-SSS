@@ -1,15 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-  ## Inicio
-  Crea una carpeta llamada "pagina_labs" y ahi vas a meter el codigo que descarges pot Git o en rar
-  Si lo haces desde Git solo usa este comando 
+  ## Descargar
+  Si descargas desde Git usa este comando 
   ##### git clone https://github.com/SirJhon72/Pagina-SSS pagina_labs 
-  >> Clonas el repositorio, y la carpeta a donde se va a meter
-
-  ## Descargar 
-  
-  Puedes descargar el proyecto, con la consola de Git o creo, que se puede descargar igual como un rar 
+  >> Clonas el repositorio, y la carpeta "pagina_labs" se va a crear, y ahi es donde se va a colocar el proyecto
+  >> Sino, solo creas la carpeta "pagina_labs" y ahi metes lo que salga del rar
   
   ## Instalar dependencias 
   
