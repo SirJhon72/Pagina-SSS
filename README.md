@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   
   Cuando descarges el proyecto, crear una terminal en el directorio donde tengas el proyecto, o bien, crea una terminal integrada en VSCode y ejecuta el siguiente comando 
   
-  ## npm install 
+  ### npm install 
   
   ### Lo que hace ese comando, es descargar e instalar todas la dependencias que estan siendo utilizadas en el proyecto 
 
@@ -19,4 +19,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   
   Cuando instales las dependencias, ahora, ejecuta el proyecto, en la consola ejecuta el siguiente comando 
   
-  ## npm start 
+  #### npm start 
