@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ##Descargar 
 ##Puedes descargar el proyecto, con la consola de Git o creo, que se puede descargar igual como un rar 
+hola mundo como estan el dia de hoy
 
 ##Instalar dependencias 
 ##Cuando descarges el proyecto, crear una terminal en el directorio donde tengas el proyecto, o bien, crea una terminal integrada en VSCode y ejecuta el siguiente comando 
