@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   ## Inicio
   Crea una carpeta llamada "pagina_labs" y ahi vas a meter el codigo que descarges pot Git o en rar
   Si lo haces desde Git solo usa este comando 
-  #####git clone https://github.com/SirJhon72/Pagina-SSS pagina_labs >> Clonas el repositorio, y la carpeta a donde se va a meter
+  ##### git clone https://github.com/SirJhon72/Pagina-SSS pagina_labs >> Clonas el repositorio, y la carpeta a donde se va a meter
 
   ## Descargar 
   
