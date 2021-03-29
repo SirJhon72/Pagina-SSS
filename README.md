@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   ## Descargar
   Si descargas desde Git usa este comando 
   ##### git clone https://github.com/SirJhon72/Pagina-SSS pagina_labs 
-  >> Clonas el repositorio, y la carpeta "pagina_labs" se va a crear, y ahi es donde se va a colocar el proyecto
-  >> Sino, solo creas la carpeta "pagina_labs" y ahi metes lo que salga del rar
+  >>Clonas el repositorio, y la carpeta "pagina_labs" se va a crear, y ahi es donde se va a colocar el proyecto
+  >>Sino, solo creas la carpeta "pagina_labs" y ahi metes lo que salga del rar
   
   ## Instalar dependencias 
   
